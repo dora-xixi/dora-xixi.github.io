@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>汪熙熙的博客</title>
+    <title>汪熙熙 Dora</title>
     <link>https://dora-xixi.github.io/</link>
-    <description>Recent content on 汪熙熙的博客</description>
+    <description>Recent content on 汪熙熙 Dora</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2019 02:31:16 +0800</lastBuildDate>
+    <language>zh_CN</language>
+    <managingEditor>wangxp0711@hotmail.com (WangXP)</managingEditor>
+    <webMaster>wangxp0711@hotmail.com (WangXP)</webMaster>
+    <copyright>(c) 2019 WangXP</copyright>
+    <lastBuildDate>Sun, 29 Dec 2019 19:03:41 +0800</lastBuildDate>
     
 	<atom:link href="https://dora-xixi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>我和弟弟一起完成的手工作业</title>
+      <link>https://dora-xixi.github.io/post/manual_work_us/</link>
+      <pubDate>Sun, 29 Dec 2019 19:03:41 +0800</pubDate>
+      <author>wangxp0711@hotmail.com (WangXP)</author>
+      <guid>https://dora-xixi.github.io/post/manual_work_us/</guid>
+      <description>汪立晨老师布置关于秋天的手工作业。 汪立晨  我的 </description>
+    </item>
+    
+    <item>
       <title>汪熙熙 Blog</title>
       <link>https://dora-xixi.github.io/post/blog/</link>
       <pubDate>Sun, 29 Dec 2019 02:31:16 +0800</pubDate>
-      
+      <author>wangxp0711@hotmail.com (WangXP)</author>
       <guid>https://dora-xixi.github.io/post/blog/</guid>
-      <description>A Fast and Flexible Static Site Generator built with love by bep, spf13 and friends in Go.
-Website | Forum | Documentation | Installation Guide | Contribution Guide | Twitter
-  
-Overview Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.</description>
+      <description>您好，我叫汪熙熙，我今年八岁多了。 我今年二年级我在二中上学，我的老师是我刘老师数学老师是余老师。
+欢迎来到我的博客。</description>
     </item>
     
   </channel>
